@@ -70,7 +70,10 @@ PDF-similarity/
 
 
 ## 📄 Lisans
- 
-Telif Hakkı © 2025 **Betül Kızılkaya**
+
+MIT Lisansı © 2025 [Betül Kızılkaya](https://github.com/betulkizilkaya)  
+Lisans detayları için: [LICENSE](LICENSE)
+
+
 
 
